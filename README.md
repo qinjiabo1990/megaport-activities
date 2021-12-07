@@ -2,19 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Install Dependencies
+## 1. Install Dependencies
 
-`npm install`
+Please run `npm install` in the terminal to install dependencies for the project.
 
-## Getting Started
+## 2. Getting Started
 
-`npm start`
+Once dependencies are successfully installed, please run `npm start` to start the project.
 
-Once it is running, open your browser and type [http://localhost:3000](http://localhost:3000) to check it out.
+When it is running, open your browser and type [http://localhost:3000](http://localhost:3000) to view it.
 
 ### Activity 1
 
-The page will load once `npm start` is successful started.
+The page will load once `npm start` is successfully started.
 
 ### Activity 2 & 3
 
