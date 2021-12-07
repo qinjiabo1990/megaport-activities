@@ -1,0 +1,32 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+	width: 100px;
+}
+
+tr:nth-child(even) {
+  background-color: #c8e7ff;
+}
+
+.idCol {
+	width: 40px;
+}
+
+.sortedButtons {
+	display: flex;
+	justify-content: space-between;
+}
+
+.sortedButton {
+
+	border: none;
+	font-size: 16px;
+	margin: 0 1px;
+}
